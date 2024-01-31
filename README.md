@@ -1,9 +1,5 @@
 # Number Guessing Game
 
-Author: [Your Name]
-Roll Number: [Your Roll Number]
-Email: [Your Email Address]
-
 ## Problem Statement
 
 Create a simple Number Guessing Game in Python.
